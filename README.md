@@ -40,6 +40,13 @@ HTML stylesheet here
 
 6. Print the generated HTML document. For best viewing experience online, consider printing as a PDF.
 
+
+## Contributing
+
+The journey to learning Mandarin can be hard and very rewarding. I wish you the best of luck and hope you've found this tool helpful for your studies.
+
+Please use this script however you see fit. If you believe a change might help someone understand/use the script later, please don't hesitate to submit a pull request here. Bug reports are welcome too.
+
 ## Sample
 
 The following is an excerpt generated from Sun Tzu's *Art of War*, generously provided on [Wikisource](https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95) under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
@@ -47,3 +54,5 @@ The following is an excerpt generated from Sun Tzu's *Art of War*, generously pr
 ![picture 1](assets/artofwar1.jpg)
 ![picture 2](assets/artofwar2.jpg)
 ![picture 3](assets/artofwar3.jpg)
+
+
