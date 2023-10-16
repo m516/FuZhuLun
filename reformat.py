@@ -3,8 +3,8 @@ import pinyin
 import pinyin.cedict as cedict
 
 
-INPUT_FILE  = 'title.txt'
-OUTPUT_FILE = 'title.html'
+INPUT_FILE  = 'Your text file here'
+OUTPUT_FILE = 'A new HTML file will go here'
 ENCODING = 'utf-8'
 NEW_CHAPTER_PATTERN = None
 NEW_PARAGRAPH_PATTERN = re.compile(r'(?<=\n\n)(.*?)\n\n', re.DOTALL)
