@@ -3,7 +3,9 @@
 # 辅助轮 (FuZhuLun)
 For English speakers who wish to learn Mandarin Chinese: a Python script that formats Mandarin Chinese text and augments new words with Pinyin and English.
 
-This prototype uses a text file to generate a print-friendly HTML page designed to fit A4 or US letter-sized paper. It is capable of creating a 
+This prototype uses a text file to generate a print-friendly HTML page designed to fit A4 or US letter-sized paper. Each paragraph is printed in a large, easy-to-read font, and under each paragraph is a table of new words in Chinese, Pinyin, and English.
+
+If crafting regular expressions is your thing, it is also possible to configure the script look for "chapters," checkpoints where all words will be reviewed again.
 
 ## Directions
 
