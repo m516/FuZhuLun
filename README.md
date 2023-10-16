@@ -37,3 +37,11 @@ HTML stylesheet here
 5. Open the new HTML file. It's path is the same once set in `OUTPUT_FILE`
 
 6. Print the generated HTML document. For best viewing experience online, consider printing as a PDF.
+
+## Sample
+
+The following is an excerpt generated from Sun Tzu's *Art of War*, generously provided on [Wikisource](https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95) under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+![picture 1](assets/artofwar1.jpg)
+![picture 2](assets/artofwar2.jpg)
+![picture 3](assets/artofwar3.jpg)
